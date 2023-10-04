@@ -1,2 +1,1 @@
-"# Djangoblog" 
-"# Djangoblog" 
+"# django-blog" 
